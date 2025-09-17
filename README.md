@@ -1,4 +1,22 @@
-## Hi there 👋
+## Michael Hannan
+
+* C.S. Student at Oklahoma City University
+* Working towards B.S. in Computer Science w/ minor in Mathematics & Machine Learning
+* Currently working on image editing app
+* Currently interested in work
+
+`System.out.println("Hello World");`
+
+### My Skills
+ [![My Skills](https://skillicons.dev/icons?i=cs,java,python,mysqljs,react,html,css,github,azure,linux,latex)](https://skillicons.dev)
+
+Some fun short games (unfinished): <br />
+[Minesweeper](https://azure.bkmcoding.com) <br />
+[Animal Observer](https://unessay.bkmcoding.com) <br />
+~ Hosted using Azure
+
+
+<img src="https://media1.tenor.com/m/U3ctZ-oyAZEAAAAd/cat.gif" style="width: 600px; height: 300px;">
 
 <!--
 **bkmcoding/bkmcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
