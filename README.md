@@ -8,7 +8,7 @@
 `System.out.println("Hello World");`
 
 ### My Skills
- [![My Skills](https://skillicons.dev/icons?i=cs,java,python,mysqljs,react,html,css,github,azure,linux,latex)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,java,python,mysql,js,react,html,css,github,azure,linux,latex)](https://skillicons.dev)
 
 Some fun short games (unfinished): <br />
 [Minesweeper](https://azure.bkmcoding.com) <br />
