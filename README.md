@@ -12,6 +12,9 @@
 ### My Skills
  [![My Skills](https://skillicons.dev/icons?i=cs,java,python,mysql,js,react,html,css,github,azure,linux,latex)](https://skillicons.dev)
 
+### Learned Recently
+ [![Learned Recently](https://skillicons.dev/icons?i=c,flask,sklearn)](https://skillicons.dev)
+ 
 Some fun short games (unfinished): <br />
 [Minesweeper](https://azure.bkmcoding.com) <br />
 [Animal Observer](https://unessay.bkmcoding.com) <br />
