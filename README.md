@@ -16,8 +16,8 @@
  [![Learned Recently](https://skillicons.dev/icons?i=c,flask,sklearn)](https://skillicons.dev)
  
 Some fun short games (unfinished): <br />
-[Minesweeper](https://azure.bkmcoding.com) <br />
-[Animal Observer](https://unessay.bkmcoding.com) <br />
+[Minesweeper](https://minesweeper.bkmcoding.com) <br />
+[Animal Observer](https://animal.bkmcoding.com) <br />
 ~ Hosted using Azure
 
 
