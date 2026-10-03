@@ -1,8 +1,8 @@
 ## Michael Hannan
 
-* C.S. Student at Oklahoma City University
+* Junior C.S. Student at Oklahoma City University
 * Working towards B.S. in Computer Science w/ minor in Mathematics & Machine Learning
-* Currently working on image editing app
+* Currently working on NAWAT + HOOT
 * Currently interested in work
 
 [Michaels Sheet](https://msheet.bkmcoding.com/)
@@ -14,8 +14,13 @@
 
 ### Learned Recently
  [![Learned Recently](https://skillicons.dev/icons?i=c,flask,sklearn)](https://skillicons.dev)
+
+Cool Projects
+[Recipez](https://recipez.bkmcoding.com) <br />
+
  
 Some fun short games (unfinished): <br />
+[Bit](https://bit.bkmcoding.com) <br />
 [Minesweeper](https://minesweeper.bkmcoding.com) <br />
 [Animal Observer](https://animal.bkmcoding.com) <br />
 ~ Hosted using Azure
@@ -24,7 +29,7 @@ Some fun short games (unfinished): <br />
 <img src="https://media1.tenor.com/m/U3ctZ-oyAZEAAAAd/cat.gif" style="width: 225px; height: 150px;">
 
 
-Contact Me: mhannan@my.okcu.edu 
+Contact Me: mhannan@my.okcu.edu | bkmcoding@gmail.com
 <!--
 **bkmcoding/bkmcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
