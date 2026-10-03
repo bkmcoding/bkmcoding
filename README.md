@@ -10,10 +10,10 @@
 `System.out.println("Hello World");`
 
 ### My Skills
- [![My Skills](https://skillicons.dev/icons?i=cs,java,python,mysql,js,react,html,css,github,azure,linux,latex)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,java,python,mysql,nodejs,flask,react,html,css,github,azure,linux,latex)](https://skillicons.dev)
 
 ### Learned Recently
- [![Learned Recently](https://skillicons.dev/icons?i=c,flask,sklearn)](https://skillicons.dev)
+ [![Learned Recently](https://skillicons.dev/icons?i=net,postgres,c,sklearn)](https://skillicons.dev)
 
 Cool Projects
 [Recipez](https://recipez.bkmcoding.com) <br />
